@@ -1,5 +1,5 @@
 #!groovy
-// Alex Test 11-12 v4
+// Alex Test 11-12 Build2
 // a simple pipeline
 def pipeline = {
   node {
